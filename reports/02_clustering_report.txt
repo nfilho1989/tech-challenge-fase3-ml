@@ -1,0 +1,32 @@
+============================================================
+RELATÓRIO DE AVALIAÇÃO - K-Means
+============================================================
+
+INFORMAÇÕES GERAIS
+------------------------------
+Número de amostras: 99996
+Número de features: 10
+Número de clusters: 6
+Pontos de ruído: 0 (0.00%)
+
+MÉTRICAS INTERNAS
+------------------------------
+Silhouette Score: 0.1077
+Davies-Bouldin Index: 1.9624
+Calinski-Harabasz Index: 8380.70
+
+INTERPRETAÇÃO
+------------------------------
+Silhouette: Clusters sobrepostos ou mal definidos
+Davies-Bouldin: Moderado (pode haver sobreposição)
+
+DISTRIBUIÇÃO DOS CLUSTERS
+------------------------------
+Cluster 5: 29179 amostras (29.18%)
+Cluster 1: 25556 amostras (25.56%)
+Cluster 0: 25250 amostras (25.25%)
+Cluster 3: 12948 amostras (12.95%)
+Cluster 2: 4860 amostras (4.86%)
+Cluster 4: 2203 amostras (2.20%)
+
+============================================================

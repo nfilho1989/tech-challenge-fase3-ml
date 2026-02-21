@@ -1,0 +1,45 @@
+# Data - arquivos grandes não versionados
+data/raw/*.csv
+data/processed/
+*.parquet
+
+# Models
+models/**/*.joblib
+models/**/*.pkl
+
+# Environment
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build
+build/
+dist/
+*.egg-info/
